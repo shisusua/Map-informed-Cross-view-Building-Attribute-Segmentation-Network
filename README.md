@@ -1,5 +1,8 @@
 # Map-informed-Cross-view-Building-Attribute-Segmentation-Network
 MCBA-Net: Azimuth-guided cross-view learning for fine-grained building type segmentation
+
+![Framework](Model%20architecture%20diagram.png)
+
 ## Datasets
 We evaluate MCBA-Net on four datasets, including two public datasets and two custom datasets.
 
