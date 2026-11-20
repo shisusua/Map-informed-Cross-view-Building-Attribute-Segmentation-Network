@@ -10,8 +10,8 @@ We evaluate MCBA-Net on four datasets, including two public datasets and two cus
 |---------|------|----------|
 | OmniCity | Public | https://opendatalab.com/OmniCity |
 | Brooklyn | Public | https://opendatalab.com/CVeRS/Cross-view |
-| Boston | Custom | https://pan.baidu.com/s/1aXCh8C6sAockQZw_5yFi-Q?pwd=kdx7 |
-| Berlin | Custom | https://pan.baidu.com/s/1aXCh8C6sAockQZw_5yFi-Q?pwd=kdx7 |
+| Boston | Custom | https://pan.baidu.com/s/1aXCh8C6sAockQZw_5yFi-Q?pwd=kdx7 or https://drive.google.com/file/d/1anioAhmnagTKfoWdkSty04TZyRsFNaaz/view?usp=drive_link|
+| Berlin | Custom | https://pan.baidu.com/s/1aXCh8C6sAockQZw_5yFi-Q?pwd=kdx7 or https://drive.google.com/file/d/182Plm-ikngOBDRwbCK_QrVklYtoCcBTT/view?usp=drive_link|
 
 ## The code is coming soon
 
